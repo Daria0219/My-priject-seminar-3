@@ -1,1 +1,1 @@
-# My-priject-seminar-3
+# My_project_seminar_3
